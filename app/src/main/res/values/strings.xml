@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">International News</string>
+    <string name="todo">TODO</string>
+    <string name="top_headlines">Top Headlines</string>
+</resources>

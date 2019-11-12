@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482535983958",
+    "firebase_url": "https://internationalnews-91d63.firebaseio.com",
+    "project_id": "internationalnews-91d63",
+    "storage_bucket": "internationalnews-91d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482535983958:android:47ab8c6cfac428019be4f7",
+        "android_client_info": {
+          "package_name": "com.example.internationalnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482535983958-usaj9q695kfnuoi27nu97e5b3ksjuudh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.internationalnews",
+            "certificate_hash": "88f2f1ddb2d26243ef8a2d995c6799139aa43d3f"
+          }
+        },
+        {
+          "client_id": "482535983958-i3ka25m4cqg5dkkjkjm9ekbpancg577p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MTX3Y9L0eL1u80dJX82E3d4mLcyRZzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482535983958-i3ka25m4cqg5dkkjkjm9ekbpancg577p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
